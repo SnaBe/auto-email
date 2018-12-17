@@ -6,8 +6,7 @@ Automate mailing a large list of users in Python
 ```
 $ pip install selenium
 ```
-OS - (Linux/OSX/Windows)
-Chromedriver: http://chromedriver.chromium.org/downloads
+Linux/OSX/Windows Chromedriver: http://chromedriver.chromium.org/downloads
 
 ### 2. Edit the config.py to fit your needs
 
