@@ -2,7 +2,7 @@
 Automate mailing a large list of users in Python
 
 
-### 1. Download the needed modules & driver
+### 1. Clone this repositories, download the needed modules & driver
 ```
 $ pip install selenium
 ```
