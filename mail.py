@@ -3,9 +3,9 @@ from config import details
 #Let us use the chrome web browser for automation
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-#Import time
+#Import times sleep
 import time
-#Run time
+#Function run time
 def timeit(method):
     def wrapper(*args, **kw):
         start_time = int(round(time.time() * 1000))
