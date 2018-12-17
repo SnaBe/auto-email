@@ -11,7 +11,7 @@ def timeit(method):
         start_time = int(round(time.time() * 1000))
         result = method(*args, **kw)
         end_time = int(round(time.time() * 1000))
-        print('Function took '(end_time - start_time)/1000, 'seconds.')
+        print((end_time - start_time)/1000, 'seconds.')
 
         return result
     return wrapper
