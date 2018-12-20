@@ -44,7 +44,7 @@ def mail():
 		#Our to element
 		to = driver.find_element_by_xpath('//*[@id=":q3"]')
 		#Send the users email and press enter
-		time.sleep(2)
+		time.sleep(1)
 		to.send_keys(user)
 		to.send_keys(Keys.ENTER)
 	#Continue with mailing proces
