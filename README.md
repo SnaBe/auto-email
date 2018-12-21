@@ -1,5 +1,5 @@
 # auto-mail setup guide
-Automate mailing a large list of users in Python
+Automate mailing a large list of users in Python using selenium
 
 
 ### 1. Clone this repository, download the needed modules & driver
