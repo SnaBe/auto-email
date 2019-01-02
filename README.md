@@ -10,12 +10,14 @@ Linux/OSX/Windows Chromedriver: http://chromedriver.chromium.org/downloads
 
 ### 2. Edit the config.py to fit your needs
 
+#### Here's an example
+
 ```
 details = {
 	'email_address': 'myfake.mail22@yahoo.com',
 	'email_password': 'best/paSSword.2019',
 	'subject': 'Python browser automation',
-	'message': 'Looking to automate your own email list? Go download this coding example at - https://github.com/SnaBe/auto-mail',
+	'message': 'Looking to automate your own email list?',
 	'users': ['example-mail@gmail.com', 'mail-example@gmail.com', 'myfake.mail22@yahoo.com']
 }
 
