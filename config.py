@@ -1,5 +1,4 @@
 details = {
-	'name': 'Simon S.',
 	'portal_url': 'https://mail.google.com',
 	'email_address': 'your_email_address',
 	'email_password': 'your_email_password',
