@@ -30,5 +30,4 @@ $ py smtplib_email_a_list.py
 or
 ```
 $ py selenium_email_a_list.py
-
 ```
